@@ -1,6 +1,3 @@
-Sure, here's how you can format your `README.md` file on GitHub using Markdown:
-
-```markdown
 # Creating VPCs and Subnets with Terraform and IaC
 
 ## What we will create:
